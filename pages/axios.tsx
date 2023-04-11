@@ -24,7 +24,7 @@ const AxisApi = () => {
           <span className=" text-green-500">{name}</span>
         </h1>
         <h1 className="mb-3">
-          I am <span className=" text-green-500">{name}</span>
+          I am your <span className=" text-green-500">{name}</span>
         </h1>
         <h1 className="mb-3">
           I have <span className=" text-green-500">{moves}</span> moves
