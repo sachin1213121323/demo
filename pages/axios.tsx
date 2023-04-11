@@ -20,7 +20,8 @@ const AxisApi = () => {
     <>
       <div className=" text-4xl font-bold text-center mt-10">
         <h1 className="mb-3">
-          You select <span className=" text-green-500">{name}</span>
+          Thankyou for select You select{" "}
+          <span className=" text-green-500">{name}</span>
         </h1>
         <h1 className="mb-3">
           I am <span className=" text-green-500">{name}</span>
