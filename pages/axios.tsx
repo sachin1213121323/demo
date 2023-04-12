@@ -41,7 +41,7 @@ const AxisApi = () => {
           <option>2</option>
           <option>25</option>
           <option>4</option>
-          <option>5 </option>
+          <option>5</option>
           <option>6</option>
           <option>7</option>
           <option>8</option>
